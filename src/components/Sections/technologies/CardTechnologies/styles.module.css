@@ -1,0 +1,21 @@
+.Card {
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    border: 2px solid var(--Grey-palette-White);
+    Width: 287px;
+    Height: 86px;
+    border-radius: 25px;
+}
+
+.Img {
+    Width: 2.5rem;
+    Height: 2rem;
+}
+
+.Name{
+    font-size: var(--Title3-Size);
+    font-weight: var(--Title3-Bold);
+    color: var(--Grey-palette-White);
+    margin-left: 1rem;
+}

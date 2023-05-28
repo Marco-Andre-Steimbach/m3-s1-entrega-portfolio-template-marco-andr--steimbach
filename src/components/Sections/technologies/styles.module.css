@@ -1,0 +1,42 @@
+.Section {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 0 0 1rem;
+}
+
+.Title {
+    font-size: var(--Title1-Size);
+    font-weight: var(--Title1-Bold);
+    color: white;
+
+}
+
+.Card {
+    display: flex;
+    margin-top: 3rem;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+}
+
+@media (min-width: 1024px) {
+    .Section {
+        display: flex;
+        flex-direction: column;
+        width: 1024px;
+        margin: 0;
+    }
+
+    .Title {
+        font-size: var(--Title1-Size);
+        font-weight: var(--Title1-Bold);
+        color: white;
+
+    }
+
+    .Card {
+        display: flex;
+        margin-top: 3rem;
+        gap: 1.5rem;
+        flex-wrap: wrap;
+    }
+}
