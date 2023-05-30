@@ -18,6 +18,12 @@
     --ParagraphOrLink-Size: 16px;
 }
 
-body{
+body {
     background-color: var(--Grey-palette-Black);
+}
+
+.conteiner {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding-inline: 1rem;
 }

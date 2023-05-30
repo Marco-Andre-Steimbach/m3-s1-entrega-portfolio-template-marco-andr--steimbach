@@ -2,7 +2,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    margin: 5rem 0 0 1rem;
+    margin: 5rem 0 1rem 0;
 }
 
 .aboutMe {
@@ -22,7 +22,6 @@
 @media (min-width: 1024px) {
     .Section {
         display: flex;
-        width: 1024px;
         justify-content: space-between;
         margin-top: 6.875rem;
         flex-direction: row;

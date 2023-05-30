@@ -23,6 +23,7 @@
 }
 
 .Description{
+    margin-top: 1rem;
     font-size: var(--ParagraphOrLink-Size);
     color: var(--Grey-palette-White);
 }

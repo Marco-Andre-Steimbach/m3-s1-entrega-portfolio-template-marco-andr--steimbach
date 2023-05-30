@@ -10,16 +10,18 @@ import { Footer } from './components/Footer'
 
 function App() {
 
-    return (
-      <>
+  return (
+    <>
+      <div className='conteiner'>
         <Header />
         <Introduction />
         <AboutMe />
         <TechnologiesSection />
         <ProjectsSection />
         <Footer />
-      </>
-    )
-  }
+      </div>
+    </>
+  )
+}
 
 export default App

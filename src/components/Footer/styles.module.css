@@ -6,7 +6,7 @@
     border-bottom: 2px solid var(--Grey-palette-White);
     border-left: none;
     border-right: none;
-    margin: 2rem 1rem 2rem 1rem;
+    margin: 2rem 0;
     justify-content: space-between;
     align-items: center;
     padding: 1rem;
@@ -39,7 +39,6 @@
     .Footer {
         display: flex;
         flex-direction: row;
-        width: 1024px;
         height: 190px;
         border-top: 2px solid var(--Grey-palette-White);
         border-bottom: 2px solid var(--Grey-palette-White);

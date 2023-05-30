@@ -4,7 +4,6 @@
     flex-direction: column;
     margin-top: 6.875rem;
     gap: 2rem;
-    margin-left: 1rem;
 }
 
 .divInfomation {
@@ -49,7 +48,6 @@
         display: flex;
         justify-content: space-between;
         flex-direction: row;
-        width: 1024px;
         margin-top: 6.875rem;
         margin-left: 0;
     }

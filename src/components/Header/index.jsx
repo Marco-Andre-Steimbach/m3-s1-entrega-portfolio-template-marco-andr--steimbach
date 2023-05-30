@@ -10,7 +10,7 @@ export const Header = () => {
                 <button className={styles.Button}>Stack</button>
                 <button className={styles.Button}>Projetos</button>
             </div>
-            <button className={styles.ButtonContact}>Cadastre-se</button>
+            <button className={styles.ButtonContact}>Contato</button>
         </header>
     )
 }
