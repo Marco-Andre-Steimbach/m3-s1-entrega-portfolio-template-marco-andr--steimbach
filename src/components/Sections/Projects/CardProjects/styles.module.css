@@ -30,7 +30,7 @@
 
 .Link{
     position: absolute; 
-    bottom: 0.5rem; 
+    bottom: 1.5rem; 
     left: 1rem; 
     font-size: var(--ParagraphOrLink-Size);
     font-weight: var(--Link-Bold);
